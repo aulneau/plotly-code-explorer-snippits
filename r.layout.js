@@ -1,4 +1,4 @@
-const layout = {
+{
   annotations: [
     {
       x: 1.02,
@@ -106,7 +106,4 @@ const layout = {
     type: 'linear',
     zeroline: false
   }
-};
-
-
-export default layout;
+}

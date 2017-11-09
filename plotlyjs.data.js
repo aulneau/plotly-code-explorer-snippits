@@ -1,4 +1,4 @@
-const data = [
+[
   {
     x: ["giraffes", "orangutans", "monkeys"],
     y: [20, 14, 23],
@@ -13,6 +13,4 @@ const data = [
     type: "bar",
     marker: { color: "#ab63fa" }
   }
-];
-
-export default data;
+]
